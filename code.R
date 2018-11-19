@@ -4,7 +4,7 @@ getwd()
 library(huge)
 library(earth)
 library(MASS)
-library(huge)
+
 
 
 ########################################################
